@@ -6,7 +6,7 @@ from utils.hand_gesture import HandGestureRecognizer
 from utils.media_control import MediaController
 from ui.display import draw_results
 
-ADMIN_NAME = "Ronit"
+ADMIN_NAME = "Noni"
 GESTURE_HOLD_FRAMES = 4
 
 
